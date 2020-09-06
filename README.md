@@ -1,2 +1,2 @@
 # Supplement
-https://ickem.github.io/Suppliment/
+https://ickem.github.io/Supplement/
